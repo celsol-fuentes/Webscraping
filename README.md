@@ -1,6 +1,6 @@
 # Web scraping and Indigenous Languages Spoken in Canada
 
-This is my very first webscraping project! I used Beautiful Soup to webscrape information on the Indigenous languages spoken in Canada. 
+This is my very first web scraping project! I used Beautiful Soup to web scrape information on the Indigenous languages spoken in Canada. 
 
 First I provide some background and explain my motivation behind this project. Then I web scrape a Wikipedia page and combine data from two tables into one dataFrame. I was able to learn which were the five most spoken languages, which are the ten most endangered languages, highlight the Indigenous languages with official status, and see the differences between first language and second language speakers.
 
